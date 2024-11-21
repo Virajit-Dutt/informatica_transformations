@@ -1,0 +1,41 @@
+#country_id,country_name,region_id,region_name,location_id,street_address,postal_code,city,state_province,employee_id,Emp_Name,department_name,job_title,min_salary,max_salary
+CA,Canada,2,Americas,1800,147 Spadina Ave,M5V 2L7,Toronto,Ontario,202,Pat Fay,Marketing,Marketing Representative,4000.00,9000.00
+CA,Canada,2,Americas,1800,147 Spadina Ave,M5V 2L7,Toronto,Ontario,201,Michael Ha,Marketing,Marketing Manager,9000.00,15000.00
+DE,Germany,1,Europe,2700,Schwanthalerstr. 7031,80925,Munich,Bavaria,204,Hermann Ba,Public Relations,Public Relations Representative,4500.00,10500.00
+UK,United Kingdom,1,Europe,2500,Magdalen Centre, The Oxford Science Park,OX9 9ZB,Oxford,Oxford,179,Charles Jo,Sales,Sales Representative,6000.00,12000.00
+UK,United Kingdom,1,Europe,2500,Magdalen Centre, The Oxford Science Park,OX9 9ZB,Oxford,Oxford,178,Kimberely ,Sales,Sales Representative,6000.00,12000.00
+UK,United Kingdom,1,Europe,2500,Magdalen Centre, The Oxford Science Park,OX9 9ZB,Oxford,Oxford,177,Jack Livin,Sales,Sales Representative,6000.00,12000.00
+UK,United Kingdom,1,Europe,2500,Magdalen Centre, The Oxford Science Park,OX9 9ZB,Oxford,Oxford,176,Jonathon T,Sales,Sales Representative,6000.00,12000.00
+UK,United Kingdom,1,Europe,2500,Magdalen Centre, The Oxford Science Park,OX9 9ZB,Oxford,Oxford,146,Karen Part,Sales,Sales Manager,10000.00,20000.00
+UK,United Kingdom,1,Europe,2500,Magdalen Centre, The Oxford Science Park,OX9 9ZB,Oxford,Oxford,145,John Russe,Sales,Sales Manager,10000.00,20000.00
+UK,United Kingdom,1,Europe,2400,8204 Arthur St,,London,,203,Susan Mavr,Human Resources,Human Resources Representative,4000.00,9000.00
+US,United States of America,2,Americas,1700,2004 Charade Rd,98199,Seattle,Washington,206,William Gi,Accounting,Public Accountant,4200.00,9000.00
+US,United States of America,2,Americas,1700,2004 Charade Rd,98199,Seattle,Washington,205,Shelley Hi,Accounting,Accounting Manager,8200.00,16000.00
+US,United States of America,2,Americas,1700,2004 Charade Rd,98199,Seattle,Washington,200,Jennifer W,Administration,Administration Assistant,3000.00,6000.00
+US,United States of America,2,Americas,1700,2004 Charade Rd,98199,Seattle,Washington,119,Karen Colm,Purchasing,Purchasing Clerk,2500.00,5500.00
+US,United States of America,2,Americas,1700,2004 Charade Rd,98199,Seattle,Washington,118,Guy Himuro,Purchasing,Purchasing Clerk,2500.00,5500.00
+US,United States of America,2,Americas,1700,2004 Charade Rd,98199,Seattle,Washington,117,Sigal Tobi,Purchasing,Purchasing Clerk,2500.00,5500.00
+US,United States of America,2,Americas,1700,2004 Charade Rd,98199,Seattle,Washington,116,Shelli Bai,Purchasing,Purchasing Clerk,2500.00,5500.00
+US,United States of America,2,Americas,1700,2004 Charade Rd,98199,Seattle,Washington,115,Alexander ,Purchasing,Purchasing Clerk,2500.00,5500.00
+US,United States of America,2,Americas,1700,2004 Charade Rd,98199,Seattle,Washington,114,Den Raphae,Purchasing,Purchasing Manager,8000.00,15000.00
+US,United States of America,2,Americas,1700,2004 Charade Rd,98199,Seattle,Washington,113,Luis Popp,Finance,Accountant,4200.00,9000.00
+US,United States of America,2,Americas,1700,2004 Charade Rd,98199,Seattle,Washington,112,Jose Manue,Finance,Accountant,4200.00,9000.00
+US,United States of America,2,Americas,1700,2004 Charade Rd,98199,Seattle,Washington,111,Ismael Sci,Finance,Accountant,4200.00,9000.00
+US,United States of America,2,Americas,1700,2004 Charade Rd,98199,Seattle,Washington,110,John Chen,Finance,Accountant,4200.00,9000.00
+US,United States of America,2,Americas,1700,2004 Charade Rd,98199,Seattle,Washington,109,Daniel Fav,Finance,Accountant,4200.00,9000.00
+US,United States of America,2,Americas,1700,2004 Charade Rd,98199,Seattle,Washington,108,Nancy Gree,Finance,Finance Manager,8200.00,16000.00
+US,United States of America,2,Americas,1700,2004 Charade Rd,98199,Seattle,Washington,102,Lex De Haa,Executive,Administration Vice President,15000.00,30000.00
+US,United States of America,2,Americas,1700,2004 Charade Rd,98199,Seattle,Washington,101,Neena Koch,Executive,Administration Vice President,15000.00,30000.00
+US,United States of America,2,Americas,1700,2004 Charade Rd,98199,Seattle,Washington,100,Steven Kin,Executive,President,20000.00,40000.00
+US,United States of America,2,Americas,1500,2011 Interiors Blvd,99236,South San Francisco,California,193,Britney Ev,Shipping,Shipping Clerk,2500.00,5500.00
+US,United States of America,2,Americas,1500,2011 Interiors Blvd,99236,South San Francisco,California,192,Sarah Bell,Shipping,Shipping Clerk,2500.00,5500.00
+US,United States of America,2,Americas,1500,2011 Interiors Blvd,99236,South San Francisco,California,126,Irene Mikk,Shipping,Stock Clerk,2000.00,5000.00
+US,United States of America,2,Americas,1500,2011 Interiors Blvd,99236,South San Francisco,California,123,Shanta Vol,Shipping,Stock Manager,5500.00,8500.00
+US,United States of America,2,Americas,1500,2011 Interiors Blvd,99236,South San Francisco,California,122,Payam Kauf,Shipping,Stock Manager,5500.00,8500.00
+US,United States of America,2,Americas,1500,2011 Interiors Blvd,99236,South San Francisco,California,121,Adam Fripp,Shipping,Stock Manager,5500.00,8500.00
+US,United States of America,2,Americas,1500,2011 Interiors Blvd,99236,South San Francisco,California,120,Matthew We,Shipping,Stock Manager,5500.00,8500.00
+US,United States of America,2,Americas,1400,2014 Jabberwocky Rd,26192,Southlake,Texas,107,Diana Lore,IT,Programmer,4000.00,10000.00
+US,United States of America,2,Americas,1400,2014 Jabberwocky Rd,26192,Southlake,Texas,106,Valli Pata,IT,Programmer,4000.00,10000.00
+US,United States of America,2,Americas,1400,2014 Jabberwocky Rd,26192,Southlake,Texas,105,David Aust,IT,Programmer,4000.00,10000.00
+US,United States of America,2,Americas,1400,2014 Jabberwocky Rd,26192,Southlake,Texas,104,Bruce Erns,IT,Programmer,4000.00,10000.00
+US,United States of America,2,Americas,1400,2014 Jabberwocky Rd,26192,Southlake,Texas,103,Alexander ,IT,Programmer,4000.00,10000.00
